@@ -3,4 +3,5 @@
   <Project Path="05_02_Foreach/05_02_Foreach.csproj" />
   <Project Path="05_03_While/05_03_While.csproj" />
   <Project Path="05_04_DoWhile/05_04_DoWhile.csproj" />
+  <Project Path="05_05_StudentApp/05_05_StudentApp.csproj" />
 </Solution>
