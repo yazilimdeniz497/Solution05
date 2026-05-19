@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="05_01_Arrays/05_01_Arrays.csproj" />
   <Project Path="05_02_Foreach/05_02_Foreach.csproj" />
+  <Project Path="05_03_While/05_03_While.csproj" />
 </Solution>
